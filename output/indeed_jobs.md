@@ -1,5 +1,5 @@
 # 🟦 Indeed — Pharma Data & Automation Roles
-*Last updated: 2026-11-06 02:44 UTC*
+*Last updated: 2026-11-06 04:14 UTC*
 
 **45 new role(s)** since last run · 45 total in last 24h
 
@@ -10,14 +10,14 @@
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-11-06
 
-### [CRM Business Analyst](https://ch.indeed.com/viewjob?jk=9de7f491e77afe20) — Avacone
-- 📍 **Location:** Basel, BS, Switzerland
+### [GPS Associate: Quantitative Analyst, 100% (f/m/d)](https://ch.indeed.com/viewjob?jk=bbe9babdfd67ee5f) — JULIUS BAER
+- 📍 **Location:** Zürich, ZH, Switzerland
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-11-05
 
-### [GPS Associate: Quantitative Analyst, 100% (f/m/d)](https://ch.indeed.com/viewjob?jk=bbe9babdfd67ee5f) — JULIUS BAER
-- 📍 **Location:** Zürich, ZH, Switzerland
+### [CRM Business Analyst](https://ch.indeed.com/viewjob?jk=9de7f491e77afe20) — Avacone
+- 📍 **Location:** Basel, BS, Switzerland
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-11-05
@@ -42,6 +42,12 @@
 - 🕒 **Posted:** 2026-11-06
 
 ### [Analyst, Private Capital Markets](https://uk.indeed.com/viewjob?jk=ee9feafb8feddb18) — Financial Technology Partners
+- 📍 **Location:** London, ENG, UK
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-11-06
+
+### [Group Reward Analyst](https://uk.indeed.com/viewjob?jk=32b7ed700f35b435) — Kingfisher
 - 📍 **Location:** London, ENG, UK
 - **Work mode:** On-site
 - **Job type:** fulltime
@@ -72,19 +78,7 @@
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-11-05
 
-### [2027 Apprentice - Digital (Data and Decision Intelligence) – London](https://uk.indeed.com/viewjob?jk=8c80edbdc514e2ce) — PA Consulting
-- 📍 **Location:** London, ENG, UK
-- 💰 **Salary:** $31k/yr
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-05
-
 ### [Analyst People](https://uk.indeed.com/viewjob?jk=10205d8e304747ff) — Rio Tinto
-- 📍 **Location:** London, ENG, UK
-- **Work mode:** On-site
-- 🕒 **Posted:** 2026-11-05
-
-### [BloombergNEF Europe Regional Research Analyst](https://uk.indeed.com/viewjob?jk=1e3c71d2d7ec410d) — Bloomberg
 - 📍 **Location:** London, ENG, UK
 - **Work mode:** On-site
 - 🕒 **Posted:** 2026-11-05
@@ -95,8 +89,33 @@
 - **Job type:** temporary, contract
 - 🕒 **Posted:** 2026-11-05
 
+### [Business Analyst](https://uk.indeed.com/viewjob?jk=0e158b77c009a33f) — Royal Kennel Club
+- 📍 **Location:** London, ENG, UK
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-11-05
+
+### [BloombergNEF Europe Regional Research Analyst](https://uk.indeed.com/viewjob?jk=1e3c71d2d7ec410d) — Bloomberg
+- 📍 **Location:** London, ENG, UK
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-11-05
+
 ### [AR Analyst](https://uk.indeed.com/viewjob?jk=816a553a254a177f) — EXL Service
 - 📍 **Location:** London, ENG, UK
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-11-05
+
+### [2027 Apprentice - Digital (Data and Decision Intelligence) – London](https://uk.indeed.com/viewjob?jk=8c80edbdc514e2ce) — PA Consulting
+- 📍 **Location:** London, ENG, UK
+- 💰 **Salary:** $31k/yr
+- **Work mode:** On-site
+- **Job type:** fulltime
+- 🕒 **Posted:** 2026-11-05
+
+### [Technical Analyst](https://uk.indeed.com/viewjob?jk=bd8c5c0cf1e02cda) — John Lewis & Partners
+- 📍 **Location:** London, ENG, UK
+- 💰 **Salary:** $53k–$78k/yr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-11-05
@@ -106,13 +125,13 @@
 - **Work mode:** On-site
 - 🕒 **Posted:** 2026-11-05
 
-### [AR Analyst](https://uk.indeed.com/viewjob?jk=d28b5764a2d92cd6) — EXL Service
-- 📍 **Location:** London, ENG, UK
+### [Analyst, Category Insights](https://uk.indeed.com/viewjob?jk=1f745ae844b533e0) — Saputo
+- 📍 **Location:** Weybridge, ENG, UK
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-11-05
 
-### [Business Analyst](https://uk.indeed.com/viewjob?jk=0e158b77c009a33f) — Royal Kennel Club
+### [AR Analyst](https://uk.indeed.com/viewjob?jk=d28b5764a2d92cd6) — EXL Service
 - 📍 **Location:** London, ENG, UK
 - **Work mode:** On-site
 - **Job type:** fulltime
@@ -125,22 +144,20 @@
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-11-05
 
-### [Technical Analyst](https://uk.indeed.com/viewjob?jk=bd8c5c0cf1e02cda) — John Lewis & Partners
+### [Project Finance Analyst](https://uk.indeed.com/viewjob?jk=993dc4fc985e5845) — Lumanity
 - 📍 **Location:** London, ENG, UK
-- 💰 **Salary:** $53k–$78k/yr
+- **Work mode:** On-site
+- 🕒 **Posted:** 2026-11-05
+
+### [Analytics Officer – Business Analysis](https://uk.indeed.com/viewjob?jk=fab0a2aada515957) — Cleantech People
+- 📍 **Location:** London, ENG, UK
+- 💰 **Salary:** $15.49/hr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-11-05
 
 ### [Commercial Analyst](https://uk.indeed.com/viewjob?jk=40e185c8318efd5f) — Universal Music Group
 - 📍 **Location:** London, ENG, UK
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-05
-
-### [Analytics Officer – Business Analysis](https://uk.indeed.com/viewjob?jk=fab0a2aada515957) — Cleantech People
-- 📍 **Location:** London, ENG, UK
-- 💰 **Salary:** $15.49/hr
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-11-05
@@ -152,12 +169,6 @@
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-11-05
 
-### [Analyst - Transaction Management](https://uk.indeed.com/viewjob?jk=efa417a6ed8c291e) — FIS
-- 📍 **Location:** London, ENG, UK
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-05
-
 ### [Associate Fraud Analyst](https://uk.indeed.com/viewjob?jk=d4afaf05782f5775) — UK Government - Department for Science, Innovation & Technology
 - 📍 **Location:** London, ENG, UK
 - 💰 **Salary:** $32k–$37k/yr
@@ -165,30 +176,19 @@
 - **Job type:** parttime, fulltime, contract
 - 🕒 **Posted:** 2026-11-05
 
-### [Analyst, Category Insights](https://uk.indeed.com/viewjob?jk=1f745ae844b533e0) — Saputo
-- 📍 **Location:** Weybridge, ENG, UK
+### [Product Operations Analyst](https://uk.indeed.com/viewjob?jk=7fe013681099ff24) — Echobox
+- 📍 **Location:** London, ENG, UK
 - **Work mode:** On-site
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-11-05
 
-### [Project Finance Analyst](https://uk.indeed.com/viewjob?jk=993dc4fc985e5845) — Lumanity
+### [Analyst - Transaction Management](https://uk.indeed.com/viewjob?jk=efa417a6ed8c291e) — FIS
 - 📍 **Location:** London, ENG, UK
 - **Work mode:** On-site
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-11-05
 
 ### [Associate Reinsurance Analyst (Ira) - UK, CE & ME](https://uk.indeed.com/viewjob?jk=cd21d85b40c79d7a) — RGA
-- 📍 **Location:** London, ENG, UK
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-05
-
-### [Data Analyst Apprentice](https://uk.indeed.com/viewjob?jk=4861f245e9060b14) — Smiths Group
-- 📍 **Location:** Slough, ENG, UK
-- **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-05
-
-### [Product Operations Analyst](https://uk.indeed.com/viewjob?jk=7fe013681099ff24) — Echobox
 - 📍 **Location:** London, ENG, UK
 - **Work mode:** On-site
 - **Job type:** fulltime
@@ -220,11 +220,11 @@
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-11-05
 
-### [Workday Analyst, Payroll SME](https://uk.indeed.com/viewjob?jk=ffada199f964b8ff) — Houlihan Lokey
-- 📍 **Location:** London, ENG, UK
+### [Live Sports Data Analyst](https://de.indeed.com/viewjob?jk=bc534ea0bb325424) — Apex Logic
+- 📍 **Location:** München, BY, Germany
+- 💰 **Salary:** $100/day
 - **Work mode:** On-site
-- **Job type:** fulltime
-- 🕒 **Posted:** 2026-11-05
+- 🕒 **Posted:** 2026-11-06
 
 ### [ANALYST – M&A TRANSACTIONS](https://de.indeed.com/viewjob?jk=8f42f01443514272) — Hanse Executives
 - 📍 **Location:** München, BY, Germany
@@ -250,10 +250,9 @@
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-11-05
 
-### [Payroll Analyst](https://se.indeed.com/viewjob?jk=819b07d5c1415c2b) — EF (Education First)
+### [Operations Analyst](https://se.indeed.com/viewjob?jk=3ce5696f55af0aa5) — Instabee
 - 📍 **Location:** Stockholm, AB, Sweden
 - **Work mode:** On-site
-- **Job type:** fulltime
 - 🕒 **Posted:** 2026-11-05
 
 ### [Payroll Analyst (Europe)](https://se.indeed.com/viewjob?jk=e1313e64205cc74a) — Geosyntec Consultants, Inc.
@@ -262,9 +261,10 @@
 - **Job type:** fulltime
 - 🕒 **Posted:** 2026-11-05
 
-### [Operations Analyst](https://se.indeed.com/viewjob?jk=3ce5696f55af0aa5) — Instabee
+### [Payroll Analyst](https://se.indeed.com/viewjob?jk=819b07d5c1415c2b) — EF (Education First)
 - 📍 **Location:** Stockholm, AB, Sweden
 - **Work mode:** On-site
+- **Job type:** fulltime
 - 🕒 **Posted:** 2026-11-05
 
 ### [Operations Analyst](https://se.indeed.com/viewjob?jk=bee7a3f90b878644) — Instabee Group AB
