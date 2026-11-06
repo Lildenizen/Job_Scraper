@@ -1,5 +1,5 @@
-# 🔎 Google Jobs — Environmental / Toxicology Roles
-*Last updated: 2026-11-05 11:48 UTC*
+# 🔎 Google Jobs — Pharma Data & Automation Roles
+*Last updated: 2026-11-06 04:12 UTC*
 
 **0 new role(s)** since last run · 0 total in last 24h
 
